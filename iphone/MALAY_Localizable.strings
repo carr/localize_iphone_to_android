@@ -1,0 +1,152 @@
+﻿"No results found" = "Tiada keputusan dijumpai";
+"View Ad" = "Lihat Iklan";
+"Message" = "Mesej";
+"Home" = "Laman Utama";
+"My OLX" = "OLX Saya";
+"POST" = "SIAR";
+"Post" = "Siar";
+"Posting" = " Menyiar...";
+
+// Posting
+"Attach Photos to your Ad" = "Lampirkan Gambar pada Iklan anda";
+"Post an Ad" = "Siarkan Iklan";
+"Add a Photo" = "Tambah Gambar";
+"Take Photo" = "Tangkap Gambar";
+"Choose Existing Photo" = "Pilih Gambar yang Sedia Ada";
+"Select a location for your ad" = "Pilih lokasi bagi iklan anda";
+"Select a Category" = "Pilih Kategori";
+"Close" = "Tutup";
+"Price" = "Harga";
+"Title" = "Tajuk";
+"Email (Won't be shared)" = "Emel (Tidak akan dikongsi)";
+"Phone Number" = "Nombor Telefon";
+"Description" = "Keterangan";
+"Unable to retrieve your current location." = "Lokasi semasa anda tidak ditemui";
+
+// Date format for comments
+"MM dd, YYYY" = "dd MM YYYY";
+"This listing has no comments" = "Tiada komen bagi penyenaraian ini";
+"Send" = "Kirim";
+"Sending" = "Mengirim...";
+
+// Mailbox titles. %u is replaced by the number of unread messages.
+"Mailbox (%u)" = "Peti mel(%u)";
+"Mailbox" = "Peti mel";
+"Delete Message" = "Hapuskan mesej";
+"Are you sure?" = "Anda pasti?";
+// the first %u is replaced by the current message, second %u is total messages
+"Message %u of %u" = "%u daripada %u mesej";
+
+"Manage Comments" = "Uruskan Komen";
+"Edit Listing" = "Edit Penyenaraian";
+"From: %@" = "Daripada: %@";
+"To: %@" = "Kepada: %@";
+"Hello %@!" = "Helo %@ !";
+
+"- Favorite" = "- Kegemaran";
+"+ Favorite" = "+ Kegemaran";
+"Removed from favorites" = "Dibuang dari Kegemaran";
+"Added to favorites" = "Ditambah ke Kegemaran";
+
+"You have no messages" = "Anda tiada mesej";
+"Settings" = "Tetapan";
+"Sign Out" = "Daftar Keluar";
+"Sign in" = "Daftar Masuk";
+"Are you sure you wish to sign out?" = "Anda pasti anda ingin daftar keluar?";
+"Yes" = "Ya";
+"No" = "Tidak";
+"Your message has been sent." = "Mesej anda telah di kirim";
+
+"Are you sure you wish to cancel?" = "Anda pasti anda hendak batalkan?";
+"Locate Me Now" = "Tentukan Lokasi Saya Sekarang";
+"Choose Location" = "Pilih Lokasi";
+
+"Register" = "Daftar";
+"Forgot Password" = "Terlupa Kata laluan";
+
+"Set Location" = "Tetapkan Lokasi";
+"Please enter your username and password to sign in." = "Sila masukkan nama pengguna dan kata laluan anda untuk mendaftar masuk";
+"Password and password confirmation don't match." = "Kata laluan dan pengesahan kata laluan tidak sepadan";
+"Please enter your current password." = "Sila masukkan kata laluan semasa anda";
+"Please complete all fields to register." = "Sila lengkapkan semua medan untuk mendaftar";
+"Please enter your Email address to retrieve your password." = "Sila masukkan alamat Emel anda untuk mendapatkan semula kata laluan anda";
+"Your password has been sent to %@" = "Kata laluan anda telah dikirim kepada %@";
+"Your password has been changed successfully." = "Kata laluan anda telah berjaya ditukar";
+"A confirmation mail has been sent to your email address." = "Mel pengesahan telah dikirim ke alamat emel anda";
+"Invalid Email or password." = "Emel atau kata laluan tidak sah";
+
+"Accept" = "Setuju";
+"Accepted" = "Setuju";
+"Please accept the Terms and Conditions to complete registration." = "Sila bersetuju dengan Terma dan Syarat untuk melengkapkan pendaftaran";
+
+"Search" = "Cari";
+"Reply" = "Jawab";
+"Call" = "Hubungi";
+"Updating your location..." = "Mengemaskini lokasi anda...";
+"Loading..." = "Memuat...";
+"Password" = "Kata laluan";
+"Sign In" = "Daftar Masuk";
+"Forgot Password" = "Terlupa Kata laluan";
+"Register Now!" = "Daftar Sekarang!";
+"Email Address" = "Alamat Emel";
+"Not a Member?" = "Bukan Ahli?";
+"Next" = "Seterusnya";
+"Cancel" = "Batal";
+"Mailbox" = "Peti Mel";
+"Active Ads" = "Iklan Aktif";
+"Closed Ads" = "Iklan Ditutup";
+"My Favorites" = "Kegemaran Saya";
+"Reply to Listing" = "Jawab Penyenaraian";
+"Name (Optional)" = "Nama (Opsyenal)";
+"Phone (Optional)" = "Telefon (Opsyenal)";
+"Invalid email address.  Please try again." = "Alamat emel tidak sah. Sila cuba lagi.";
+"Current Location:" = "Lokasi Semasa:";
+"Add Photo" = "Tambah Gambar";
+"Change Location for your Ad:" = "Tukar Lokasi untuk Iklan anda:";
+"Manual Location" = "Lokasi Manual";
+"Comments" = "Komen";
+"Resend Password" = "Kirim semula Kata laluan";
+"Register Button" = "Butang Pendaftaran";
+"Accept" = "Setuju";
+"I accept the Terms and Conditions of OLX" = "Saya bersetuju dengan Terma dan Syarat OLX";
+"Confirm Password" = "Sahkan Kata laluan";
+"View Terms" = "Lihat Terma";
+"Username" = "Nama pengguna";
+"Please select a city for this posting." = "Sila pilih bandar untuk penyiaran ini";
+"No listings found" = "Tiada penyenaraian ditemui";
+"Replace Photo" = "Ganti Gambar";
+"Delete Photo" = "Hapuskan Gambar";
+"Congratulations! Your ad has been published." = "Tahniah! Iklan anda telah diterbitkan";
+"You can go to My OLX to view, edit, or delete the ad at any time." = "Anda boleh pergi ke OLX Saya untuk lihat, edit atau hapuskan iklan ini pada bila-bila masa";
+"Share" = "Kongsi";
+"View Ad" = "Lihat Iklan";
+"Success" = "Berjaya";
+"Add a Comment" = "Tambah Komen";
+"Name" = "Nama";
+"Select a category for your ad" = "Sila pilih kategori untuk iklan anda";
+"Select a sub-category for your ad" = "Sila pilih sub-kategori untuk iklan anda";
+"Save Listing" = "Simpan Penyenaraian";
+
+"Location" = "Lokasi";
+"Category" = "Kategori";
+"Change Location" = "Tukar Lokasi";
+"Change Password" = "Tukar Kata laluan";
+"Old Password" = "Kata laluan Lama";
+"New Password" = "Kata laluan Baru";
+"Confirm New Password" = "Sahkan Kata laluan Baru";
+"Change Email" = "Tukar Emel";
+"New Email Address" = "Alamat Emel Baru";
+"Email Notification Preferences" = "Keutamaan Pemberitahuan Emel";
+"Email Newsletter" = "Surat berita Emel";
+"Comment Alerts" = "Pemberitahuan Komen";
+"Advice Alerts" = "Pemberitahuan Nasihat";
+"Refresh Alerts" = "Pemberitahuan Segar semula"; // ???
+"Save" = "Simpan";
+"A user with this email address already exists." = "Alamat emel ini telah digunakan oleh pengguna lain.";
+"Close this Listing" = "Tutup Penyenaraian ini";
+"Are you sure you wish to close this listing?" = "Anda pasti anda ingin menutup penyenaraian ini?";
+"Description (30 char minimum)" = "Keterangan (minimum 30 aksara)";
+
+// Email
+"Check out my new post on OLX" = "Lihat siaran baru saya di OLX";
+"Visit %@%u to check out my listing! Please forward if you know people that might be interested." = "Lawati %@%u untuk melihat penyenaraian saya! Sila hantar kepada orang lain yang anda tahu mungkin berminat.";

@@ -1,0 +1,153 @@
+﻿"No results found" = "Aucun résultat";
+"View Ad" = "Annonce";
+"Message" = "Message";
+"Home" = "Accueil";
+"My OLX" = "Mon OLX";
+"POST" = "PUBLIER";
+"Post" = "Publier";
+"Posting" = "En cours...";
+
+// Posting
+"Attach Photos to your Ad" = "Ajouter des photos à votre annonce";
+"Post an Ad" = "Publier une annonce";
+"Add a Photo" = "Ajouter une photo";
+"Take Photo" = "Prendre une photo";
+"Choose Existing Photo" = "Choisir une photo existante";
+"Select a location for your ad" = "Choisissez une ville pour votre annonce";
+"Select a Category" = "Choisissez une catégorie";
+"Close" = "Fermer";
+"Price" = "Prix";
+"Title" = "Titre";
+"Email (Won't be shared)" = "Email (Ne sera pas communiqué)";
+"Phone Number" = "Téléphone";
+"Description" = "Description";
+"Unable to retrieve your current location." = "Nous n'avons pas pu vous localiser";
+
+// Date format for comments
+"MM dd, YYYY" = "dd MM YYYY";
+"This listing has no comments" = "Cette annonce n'a pas encore de commentaires";
+"Send" = "Envoyer";
+"Sending" = "En cours...";
+
+// Mailbox titles. %u is replaced by the number of unread messages.
+"Mailbox (%u)" = "Messages (%u)";
+"Mailbox" = "Messages";
+"Delete Message" = "Supprimer le message";
+"Are you sure?" = "Etes-vous sûr?";
+// the first %u is replaced by the current message, second %u is total messages
+"Message %u of %u" = "Message %u sur %u";
+
+"Manage Comments" = "Gérer les commentaires";
+"Edit Listing" = "Modifier l'annonce";
+"From: %@" = "De: %@";
+"To: %@" = "A: %@";
+"Hello %@!" = "Bienvenue %@ !";
+
+"- Favorite" = "- Favoris";
+"+ Favorite" = "+ Favoris";
+"Removed from favorites" = "Retiré de vos favoris";
+"Added to favorites" = "Ajouté à vos favoris";
+
+"You have no messages" = "Vous n'avez pas de messages";
+"Settings" = "Paramètres";
+"Sign Out" = "Deconnexion";
+"Sign in" = "Identification";
+"Are you sure you wish to sign out?" = "Voulez-vous vraiment vous déconnecter ?";
+"Yes" = "Oui";
+"No" = "Non";
+"Your message has been sent." = "Votre message été envoyé";
+
+"Are you sure you wish to cancel?" = "Voulez-vous vraiment annuler?";
+
+"Locate Me Now" = "Localisation par GPS";
+"Choose Location" = "Localisation manuelle";
+
+"Register" = "Inscription";
+"Forgot Password" = "Mot de passe oublié";
+
+"Set Location" = "Localisation";
+"Please enter your username and password to sign in." = "Veuillez entrer votre email et mot de passe pour vous connecter à votre compte";
+"Password and password confirmation don't match." = "Le mot de passe de confirmation diffère du mot de passe";
+"Please enter your current password." = "Veuillez entrer votre mot de passe actuel";
+"Please complete all fields to register." = "Veuillez remplir tous les champs pour vous inscrire";
+"Please enter your Email address to retrieve your password." = "Veuillez entrer votre adresse email pour recevoir votre mot de passe";
+"Your password has been sent to %@" = "Votre mot de passe a été envoyé à %@";
+"Your password has been changed successfully." = "Votre mot de passe a été modifié";
+"A confirmation mail has been sent to your email address." = "Un email de confirmation a été envoyé à votre adresse";
+"Invalid Email or password." = "Email et/ou mot de passe invalides";
+
+"Accept" = "Accepter";
+"Accepted" = "Accepté";
+"Please accept the Terms and Conditions to complete registration." = "Veuillez cliquer sur Accepter pour accepter les conditions générales d'utilisation";
+
+"Search" = "Chercher";
+"Reply" = "Répondre";
+"Call" = "Appeler";
+"Updating your location..." = "Géolocalisation en cours...";
+"Loading..." = "Chargement...";
+"Password" = "Mot de Passe";
+"Sign In" = "S'identifier";
+"Forgot Password" = "Mot de passe oublié";
+"Register Now!" = "Inscription";
+"Email Address" = "Adresse email";
+"Not a Member?" = "Pas encore inscrit?";
+"Next" = "Suite";
+"Cancel" = "Annuler";
+"Mailbox" = "Mes Messages";
+"Active Ads" = "Mes Annonces";
+"Closed Ads" = "Les Anciennes";
+"My Favorites" = "Mes Favoris";
+"Reply to Listing" = "Répondre";
+"Name (Optional)" = "Nom (facutltatif)";
+"Phone (Optional)" = "Téléphone (facultatif)";
+"Invalid email address.  Please try again." = "Adresse email invalide.";
+"Current Location:" = "Position actuelle:";
+"Add Photo" = "Ajouter photo";
+"Change Location for your Ad:" = "Changer la ville de votre annonce:";
+"Manual Location" = "Localisation manuelle";
+"Comments" = "Commentaires";
+"Resend Password" = "Envoyer le mot de passe";
+"Register Button" = "S'inscrire";
+"Accept" = "Accepter";
+"I accept the Terms and Conditions of OLX" = "J'accepte les Conditions Générales d'Utilisation d'OLX";
+"Confirm Password" = "Confirmez le Mot de Passe";
+"View Terms" = "Voir les CGU";
+"Username" = "Nom d'utilisateur";
+"Please select a city for this posting." = "Veuillez sélectionner une ville pour votre annonce";
+"No listings found" = "Aucune annonce";
+"Replace Photo" = "Remplacer la photo";
+"Delete Photo" = "Supprimer";
+"Congratulations! Your ad has been published." = "Félitication ! Votre annonce a été publiée";
+"You can go to My OLX to view, edit, or delete the ad at any time." = "Vous pouvez voir, modifier ou supprimer votre annonce à tout moment dans Mon OLX";
+"Share" = "Envoyer";
+"View Ad" = "Voir l'annonce";
+"Success" = "Publier une annonce";
+"Add a Comment" = "Ajouter un commentaire";
+"Name" = "Votre nom";
+"Select a category for your ad" = "Choisissez une catégorie pour votre annonce";
+"Select a sub-category for your ad" = "Choisissez une sous-catégorie pour votre annonce";
+"Save Listing" = "Mettre a jour";
+
+"Location" = "Localisation géographique";
+"Category" = "Catégorie";
+"Change Location" = "Changer de localisation";
+"Change Password" = "Changer de mot de passe";
+"Old Password" = "Ancien mot de passe";
+"New Password" = "Nouveau mot de passe";
+"Confirm New Password" = "Confirmez le nouveau mot de passe";
+"Change Email" = "Changer d'adresse email";
+"New Email Address" = "Nouvelle adresse email";
+"Email Notification Preferences" = "Préférences Alertes email";
+"Email Newsletter" = "Newsletter";
+"Comment Alerts" = "Alertes nouveau commentaire";
+"Advice Alerts" = "Conseils achats et ventes";
+"Refresh Alerts" = "Refresh Alerts"; // ???
+"Save" = "Enregistrer";
+"A user with this email address already exists." = "Adresse email déjà utilisée.";
+"Close this Listing" = "Supprimer l'annonce";
+"Are you sure you wish to close this listing?" = "Voulez-vous supprimer votre annonce ?";
+"Description (30 char minimum)" = "Description (30 car minimum)";
+
+// Email
+"Check out my new post on OLX" = "Découvre ma nouvelle petite annonce sur OLX";
+"Visit %@%u to check out my listing! Please forward if you know people that might be interested." = "Clique sur ce lien %@%u pour voir mon annonce ! N'hésite pas à faire suivre si tu connais des gens intéressés.";

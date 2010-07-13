@@ -1,0 +1,153 @@
+"No results found" = "ไม่พบผลลัพธ์";
+"View Ad" = "ดูโฆษณา";
+"Message" = "ข้อความ";
+"Home" = "หน้าหลัก";
+"My OLX" = "OLX ของฉัน";
+"POST" = "ฝากประกาศ";
+"Post" = "ฝากประกาศ";
+"Posting" = "กำลังฝากประกาศ...";
+
+// Posting
+"Attach Photos to your Ad" = "แนบรูปภาพกับโฆษณาของคุณ";
+"Post an Ad" = "ฝากโฆษณา";
+"Add a Photo" = "เพิ่มรูป";
+"Take Photo" = "ถ่ายรูป";
+"Choose Existing Photo" = "เลือกรูปที่มีอยู่";
+"Select a location for your ad" = "เลือกตำเเหน่งสำหรับโฆษณาของคุณ";
+"Select a Category" = "เลือกหมวดหมู่";
+"Close" = "ปิด";
+"Price" = "ราคา";
+"Title" = "ชื่อเรื่อง";
+"Email (Won't be shared)" = "อีเมล (จะไม่เเบ่งปันกับคนอื่น)";
+"Phone Number" = "หมายเลขโทรศัพท์";
+"Description" = "รายละเอียด";
+"Unable to retrieve your current location." = "ไม่สามารถจะกู้ตำเเหน่งปัจจุบันของคุณได้";
+
+// Date format for comments
+"MM dd, YYYY" = "วัน เดือน ปี";
+"This listing has no comments" = "รายการนี้ไม่มีความคิดเห็น";
+"Send" = "ส่ง";
+"Sending" = "กำลังส่ง...";
+
+// Mailbox titles. %u is replaced by the number of unread messages.
+"Mailbox (%u)" = "กล่องข้อความ (%u)";
+"Mailbox" = "กล่องข้อความ";
+"Delete Message" = "ลบข้อความ";
+"Are you sure?" = "คุณเเน่ใจหรือไม่?";
+// the first %u is replaced by the current message, second %u is total messages
+"Message %u of %u" = "ข้อความ %u ของ %u";
+
+"Manage Comments" = "จัดการความคิดเห็น";
+"Edit Listing" = "แก้ไขรายการ";
+"From: %@" = "จาก: %@";
+"To: %@" = "ถึง: %@";
+"Hello %@!" = "สวัสดี %@ !";
+
+"- Favorite" = "- รายการโปรด";
+"+ Favorite" = "+ รายการโปรด";
+"Removed from favorites" = "ถูกลบออกไปจากรายการโปรด";
+"Added to favorites" = "ถูกเพิ่มในรายการโปรด";
+
+"You have no messages" = "คุณไม่มีข้อความ";
+"Settings" = "การตั้งค่า";
+"Sign Out" = "ออกจากระบบ";
+"Sign in" = "ลงชื่อเข้าใช้";
+"Are you sure you wish to sign out?" = "คุณแน่ใจว่าคุณต้องการจะออกจากระบบใช่หรือไม่?";
+"Yes" = "ใช่";
+"No" = "ไม่";
+"Your message has been sent." = "ข้อความของคุณถูกส่งเเล้ว";
+
+"Are you sure you wish to cancel?" = "คุณเเน่ใจว่าคุณต้องการยกเลิกใช่หรือไม่?";
+
+"Locate Me Now" = "หาตำเเหน่งของฉันตอนนี้";
+"Choose Location" = "เลือกตำเเหน่ง";
+
+"Register" = "การลงทะเบียน";
+"Forgot Password" = "ลืมรหัสผ่าน";
+
+"Set Location" = "ตั้งตำเเหน่ง";
+"Please enter your username and password to sign in." = "กรุณาใส่ชื่อผู้ใช้และรหัสผ่านเพื่อเข้าสู่ระบบ";
+"Password and password confirmation don't match." = "รหัสผ่านและการยืนยันรหัสผ่านไม่เข้ากัน";
+"Please enter your current password." = "กรุณาใส่รหัสผ่านปัจจุบัน";
+"Please complete all fields to register." = "กรุณากรอกข้อมูลทั้งหมดในการลงทะเบียน";
+"Please enter your Email address to retrieve your password." = "กรุณาใส่ที่อยู่อีเมลเพื่อกู้รหัสผ่านของคุณ";
+"Your password has been sent to %@" = "รหัสผ่านของคุณถูกส่งถึง %@";
+"Your password has been changed successfully." = "รหัสผ่านของคุณถูกเปลี่ยนเเปลงสำเร็จ";
+"A confirmation mail has been sent to your email address." = "อีเมลยืนยันได้ส่งไปถึงที่อยู่อีเมลของคุณ";
+"Invalid Email or password." = "อีเมลหรือรหัสผ่านไม่ถูกต้อง";
+
+"Accept" = "ยอมรับ";
+"Accepted" = "ยอมรับเเล้ว";
+"Please accept the Terms and Conditions to complete registration." = "กรุณายอมรับข้อตกลงและเงื่อนไขเพื่อทำการลงทะเบียนให้สำเร็จ";
+
+"Search" = "ค้นหา";
+"Reply" = "ตอบกลับ";
+"Call" = "โทร";
+"Updating your location..." = "กำลังอัพเดทตำเเหน่งของคุณ...";
+"Loading..." = "กำลังโหลด...";
+"Password" = "รหัสผ่าน";
+"Sign In" = "ลงชื่อเข้าใช้";
+"Forgot Password" = "ลืมรหัสผ่าน";
+"Register Now!" = "ลงทะเบียนตอนนี้!";
+"Email Address" = "ที่อยู่อีเมล";
+"Not a Member?" = "ยังไม่เป็นสมาชิก?";
+"Next" = "ต่อไป";
+"Cancel" = "ยกเลิก";
+"Mailbox" = "กล่องข้อความ";
+"Active Ads" = "โฆษณาเปิดใช้งาน";
+"Closed Ads" = "โฆษณาถูกปิด";
+"My Favorites" = "รายการโปรดของฉัน";
+"Reply to Listing" = "ตอบกลับรายการ";
+"Name (Optional)" = "ชื่อ (ทางเลือก)";
+"Phone (Optional)" = "โทรศัพท์ (ทางเลือก)";
+"Invalid email address.  Please try again." = "ที่อยู่อีเมลไม่ถูกต้อง โปรดลองใหม่อีกครั้ง";
+"Current Location:" = "ตำเเหน่งปัจจุบัน:";
+"Add Photo" = "เพิ่มรูป";
+"Change Location for your Ad:" = "เปลี่ยนตำเเหน่งสำหรับโฆษณาของคุณ:";
+"Manual Location" = "ตำเเหน่งคู่มือใช้งาน";
+"Comments" = "ความคิดเห็น";
+"Resend Password" = "ส่งรหัสผ่านอีกครั้ง";
+"Register Button" = "ปุ่มลงทะเบียน";
+"Accept" = "ยอมรับ";
+"I accept the Terms and Conditions of OLX" = "ฉันยอมรับข้อตกลงและเงื่อนไขของ OLX";
+"Confirm Password" = "ยืนยันรหัสผ่าน";
+"View Terms" = "ดูข้อกำหนด";
+"Username" = "ชื่อผู้ใช้";
+"Please select a city for this posting." = "กรุณาเลือกเมืองสำหรับฝากประกาศนี้";
+"No listings found" = "ไม่พบรายการ";
+"Replace Photo" = "เปลี่ยนรูปภาพ";
+"Delete Photo" = "ลบรูปภาพ";
+"Congratulations! Your ad has been published." = "ยินดีด้วย! โฆษณาของคุณถูกเผยเเพร่เเล้ว";
+"You can go to My OLX to view, edit, or delete the ad at any time." = "คุณสามารถไปที่ OLX ของฉัน เพื่อดู แก้ไข หรือลบโฆษณาได้ตลอดเวลา";
+"Share" = "ส่ง";
+"View Ad" = "ดูโฆษณา";
+"Success" = "สำเร็จ";
+"Add a Comment" = "เพิ่มความคิดเห็น";
+"Name" = "ชื่อ";
+"Select a category for your ad" = "เลือกหมวดหมู่สำหรับโฆษณาของคุณ";
+"Select a sub-category for your ad" = "เลือกหมวดหมู่ย่อยสำหรับโฆษณาของคุณ";
+"Save Listing" = "บันทึกรายการ";
+
+"Location" = "ตำเเหน่ง";
+"Category" = "หมวดหมู่";
+"Change Location" = "เปลี่ยนตำเเหน่ง";
+"Change Password" = "เปลี่ยนรหัสผ่าน";
+"Old Password" = "รหัสผ่านเก่า";
+"New Password" = "รหัสผ่านใหม่";
+"Confirm New Password" = "ยืนยันรหัสผ่านใหม่";
+"Change Email" = "เปลี่ยนอีเมล";
+"New Email Address" = "ที่อยู่อีเมลใหม่";
+"Email Notification Preferences" = "อีเมลการเเจ้งขาวสารที่ต้องการ";
+"Email Newsletter" = "จดหมายข่าวอีเมล";
+"Comment Alerts" = "เตือนข้อความคิดเห็น";
+"Advice Alerts" = "เตือนข้อเเนะนำ";
+"Refresh Alerts" = "เตือนรีเฟรช"; // ???
+"Save" = "บันทึก";
+"A user with this email address already exists." = "มีผู้ใช้ที่มีที่อยู่อีเมลนี้เเล้ว";
+"Close this Listing" = "ปิดรายการ";
+"Are you sure you wish to close this listing?" = "คุณเเน่ใจว่าคุณต้องการปิดรายการนี้ใช่หรือไม่?";
+"Description (30 char minimum)" = "รายละเอียด (ต่ำสุด 30 ตัวอักษร)";
+
+// Email
+"Check out my new post on OLX" = "ตรวจดูการฝากประกาศใหม่ๆ ของฉันได้ใน OLX";
+"Visit %@%u to check out my listing! Please forward if you know people that might be interested." = "เข้าชม %@%u เพื่อตรวจดูรายการของฉัน ! กรุณาส่งต่อ ถ้าคุณรู้จักคนที่อาจสนใจ";

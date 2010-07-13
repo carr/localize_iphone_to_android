@@ -1,0 +1,153 @@
+﻿"No results found" = "Ekkert fannst";
+"View Ad" = "Skoða auglýsingu";
+"Message" = "Skilaboð";
+"Home" = "Heim";
+"My OLX" = "Mitt OLX";
+"POST" = "BIRTA";
+"Post" = "Birta";
+"Posting" = "Birtir";
+
+// Posting
+"Attach Photos to your Ad" = "Birtu myndir með auglýsingunni";
+"Post an Ad" = "Birta auglýsingu";
+"Add a Photo" = "Bæta við mynd";
+"Take Photo" = "Taka mynd";
+"Choose Existing Photo" = "Velja mynd";
+"Select a location for your ad" = "Veldu staðsetningu fyrir auglýsinguna";
+"Select a Category" = "Veldu flokk";
+"Close" = "Loka";
+"Price" = "Verð";
+"Title" = "Titill";
+"Email (Won't be shared)" = "Netfang (verður ekki deilt með öðrum)";
+"Phone Number" = "Símanúmer";
+"Description" = "Lýsing";
+"Unable to retrieve your current location." = "Ekki tókst að sækja upplýsingar um staðsetningu þína";
+
+// Date format for comments
+"MM dd, YYYY" = "dd MM YYYY";
+"This listing has no comments" = "Engin ummæli eru til fyrir þessa auglýsingu";
+"Send" = "Senda";
+"Sending" = "Sendir";
+
+// Mailbox titles. %u is replaced by the number of unread messages.
+"Mailbox (%u)" = "Pósthólf (%u)";
+"Mailbox" = "Pósthólf";
+"Delete Message" = "Eyða skilaboðum";
+"Are you sure?" = "Ertu viss?";
+// the first %u is replaced by the current message, second %u is total messages
+"Message %u of %u" = Skilaboð %u af %u";
+
+"Manage Comments" = "Stjórna ummælum";
+"Edit Listing" = "Breyta auglýsingu";
+"From: %@" = "Frá: %@";
+"To: %@" = "Til: %@";
+"Hello %@!" = "Halló %@ !";
+
+"- Favorite" = "- Eftirlæti";
+"+ Favorite" = "+ Eftirlæti";
+"Removed from favorites" = "Fjarlægt úr eftirlæti";
+"Added to favorites" = "Bætt við eftirlæti";
+
+"You have no messages" = "Þú átt engin skilaboð";
+"Settings" = "Stillingar";
+"Sign Out" = "Skrá út";
+"Sign in" = "Skrá inn";
+"Are you sure you wish to sign out?" = "Viltu örugglega skrá þig út?";
+"Yes" = "Já";
+"No" = "Nei";
+"Your message has been sent." = "Skilaboðin voru send";
+
+"Are you sure you wish to cancel?" = "Viltu örugglega hætta við?";
+
+"Locate Me Now" = "Finna staðsetningu mína";
+"Choose Location" = "Velja staðsetningu";
+
+"Register" = "Skráning";
+"Forgot Password" = "Gleymt aðgangsorð";
+
+"Set Location" = "Stilla staðsetningu";
+"Please enter your username and password to sign in." = "Færðu inn notandanafn og aðgangsorð til að skrá þig inn";
+"Password and password confirmation don't match." = "Misræmi er á milli aðgangsorðs og staðfestingar á aðgangsorði";
+"Please enter your current password." = "Færðu inn núverandi aðgangsorð";
+"Please complete all fields to register." = "Fylltu inn í alla reiti til að skrá þig";
+"Please enter your Email address to retrieve your password." = "Færðu inn netfangið þitt til að endurheimta aðgangsorðið";
+"Your password has been sent to %@" = "Aðgangsorðið var sent á %@";
+"Your password has been changed successfully." = "Aðgangsorðinu var breytt";
+"A confirmation mail has been sent to your email address." = "Staðfesting var send á netfangið þitt";
+"Invalid Email or password." = "Ógilt netfang eða aðgangsorð";
+
+"Accept" = "Samþykkja";
+"Accepted" = "Samþykkt";
+"Please accept the Terms and Conditions to complete registration." = "Vinsamlegast samþykktu skilmálana til að ljúka við skráninguna";
+
+"Search" = "Leita";
+"Reply" = "Svara";
+"Call" = "Hringja";
+"Updating your location..." = "Uppfærir staðsetningu...";
+"Loading..." = "Hleður inn...";
+"Password" = "Aðgangsorð";
+"Sign In" = "Skrá inn";
+"Forgot Password" = "Gleymt aðgangsorð";
+"Register Now!" = "Skráðu þig núna!";
+"Email Address" = "Netfang";
+"Not a Member?" = "Ekki meðlimur?";
+"Next" = "Áfram";
+"Cancel" = "Hætta við";
+"Mailbox" = "Pósthólf";
+"Active Ads" = "Virkar auglýsingar";
+"Closed Ads" = "Lokaðar auglýsingar";
+"My Favorites" = "Eftirlæti";
+"Reply to Listing" = "Svara auglýsingu";
+"Name (Optional)" = "Nafn (valfrjálst)";
+"Phone (Optional)" = "Sími (valfrjálst)";
+"Invalid email address.  Please try again." = "Netfangið er ógilt. Reyndu aftur.";
+"Current Location:" = "Núverandi staðsetning:";
+"Add Photo" = "Bæta við mynd";
+"Change Location for your Ad:" = "Breyta staðsetningu fyrir auglýsingu:";
+"Manual Location" = "Handvirkt val á staðsetningu";
+"Comments" = "Ummæli";
+"Resend Password" = "Endursenda aðgangsorð";
+"Register Button" = "Skráningarhnappur";
+"Accept" = "Samþykkja";
+"I accept the Terms and Conditions of OLX" = "Ég samþykki skilmála OLX";
+"Confirm Password" = "Staðfesta aðgangsorð";
+"View Terms" = "Lesa skilmála";
+"Username" = "Notandanafn";
+"Please select a city for this posting." = "Veldu borg fyrir auglýsinguna";
+"No listings found" = "Engar auglýsingar fundust";
+"Replace Photo" = "Skipta um mynd";
+"Delete Photo" = "Eyða mynd";
+"Congratulations! Your ad has been published." = "Til hamingju! Myndin var birt.";
+"You can go to My OLX to view, edit, or delete the ad at any time." = "Þú getur hvenær sem er skoðað, breytt eða eytt auglýsingunni á Mitt OLX";
+"Share" = "Deila";
+"View Ad" = "Skoða auglýsingu";
+"Success" = "Tókst";
+"Add a Comment" = "Skrifa ummæli";
+"Name" = "Nafn";
+"Select a category for your ad" = "Veldu flokk fyrir auglýsinguna";
+"Select a sub-category for your ad" = "Veldu undirflokk fyrir auglýsinguna";
+"Save Listing" = "Vista auglýsingu";
+
+"Location" = "Staðsetning";
+"Category" = "Flokkur";
+"Change Location" = "Breyta staðsetningu";
+"Change Password" = "Breyta aðgangsorði";
+"Old Password" = "Núverandi aðgangsorð";
+"New Password" = "Nýtt aðgangsorð";
+"Confirm New Password" = "Staðfesting á nýju aðgangsorði";
+"Change Email" = "Breyta netfangi";
+"New Email Address" = "Nýtt netfang";
+"Email Notification Preferences" = "Stilling á tilkynningum í tölvupósti";
+"Email Newsletter" = "Fréttabréf í tölvupósti";
+"Comment Alerts" = "Tilkynningar um ummæli";
+"Advice Alerts" = "Tilkynningar með ráðleggingum";
+"Refresh Alerts" = "Endurnýja tilkynningar"; // ???
+"Save" = "Vista";
+"A user with this email address already exists." = "Notandi með þetta netfang er þegar til";
+"Close this Listing" = "Loka þessari auglýsingu";
+"Are you sure you wish to close this listing?" = "Viltu örugglega loka þessari auglýsingu";
+"Description (30 char minimum)" = "Lýsing (lágmark 30 stafir)";
+
+// Email
+"Check out my new post on OLX" = "Sjáðu nýju færsluna mína á OLX";
+"Visit %@%u to check out my listing! Please forward if you know people that might be interested." = "Farðu á %@%u til að sjá auglýsinguna mína! Þú mátt endilega áframsenda hana til þeirra sem þú telur að hafi áhuga.";

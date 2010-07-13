@@ -1,0 +1,153 @@
+﻿"No results found" = "Sonuç bulunamadı";
+"View Ad" = "İlanı Görüntüle";
+"Message" = "İleti";
+"Home" = "Ana Sayfa";
+"My OLX" = "OLX Bana Özel";
+"POST" = "GÖNDER";
+"Post" = "Gönder";
+"Posting" = "Gönderiliyor";
+
+// Posting
+"Attach Photos to your Ad" = "İlanınıza fotoğraf ekleyin";
+"Post an Ad" = "İlan Gönderin";
+"Add a Photo" = "Fotoğraf Ekleyin";
+"Take Photo" = "Fotoğraf Çekin";
+"Choose Existing Photo" = "Mevcut Fotoğraflardan Seçin";
+"Select a location for your ad" = "İlanınız için bir yer seçin";
+"Select a Category" = "Bir Kategori Seçin";
+"Close" = "Kapat";
+"Price" = "Fiyat";
+"Title" = "Başlık";
+"Email (Won't be shared)" = "E-Posta (Paylaşılmayacaktır)";
+"Phone Number" = "Telefon No";
+"Description" = "Açıklama";
+"Unable to retrieve your current location." = "Mevcut konumunuza erişilemedi";
+
+// Date format for comments
+"MM dd, YYYY" = "dd MM YYYY";
+"This listing has no comments" = "Bu ilanda yorum bulunmamaktadır";
+"Send" = "Gönder";
+"Sending" = "Gönderiliyor";
+
+// Mailbox titles. %u is replaced by the number of unread messages.
+"Mailbox (%u)" = "Gelen Kutusu (%u)";
+"Mailbox" = "Gelen Kutusu";
+"Delete Message" = "İletiyi Sil";
+"Are you sure?" = "Emin misiniz?";
+// the first %u is replaced by the current message, second %u is total messages
+"Message %u of %u" = "İleti %u / %u";
+
+"Manage Comments" = "Yorumları Yönet";
+"Edit Listing" = "İlanı Düzenle";
+"From: %@" = "Kimden: %@";
+"To: %@" = "Kime: %@";
+"Hello %@!" = "İyi Günler %@ !";
+
+"- Favorite" = "- Sık Kullanılanlar";
+"+ Favorite" = "+ Sık Kullanılanlar";
+"Removed from favorites" = "Sık Kullanılanlardan çıkartıldı";
+"Added to favorites" = "Sık Kullanılanlara eklendi";
+
+"You have no messages" = "İletiniz bulunmuyor";
+"Settings" = "Ayarlar";
+"Sign Out" = "Oturumu Kapat";
+"Sign in" = "Giriş Yap";
+"Are you sure you wish to sign out?" = "Oturumu kapatmak istediğinizden emin misiniz?";
+"Yes" = "Evet";
+"No" = "Hayır";
+"Your message has been sent." = "İletiniz gönderildi";
+
+"Are you sure you wish to cancel?" = "İptal etmek istediğinizden emin misiniz?";
+
+"Locate Me Now" = "Yerimi Bul";
+"Choose Location" = "Yer Seç";
+
+"Register" = "Kaydol";
+"Forgot Password" = "Parolamı Unuttum";
+
+"Set Location" = "Yerinizi Belirleyin";
+"Please enter your username and password to sign in." = "Giriş yapmak için lütfen kullanıcı adınızı ve parolanızı girin.";
+"Password and password confirmation don't match." = "Kullanıcı adı ile parola uyuşmuyor.";
+"Please enter your current password." = "Lütfen güncel parolanızı girin.";
+"Please complete all fields to register." = "Lütfen kayıt için bütün alanları doldurun.";
+"Please enter your Email address to retrieve your password." = "Lütfen yeniden parola almak için E-Posta adresinizi girin.";
+"Your password has been sent to %@" = "Parolanız %@ adresine gönderildi.";
+"Your password has been changed successfully." = "Parolanız başarıyla değiştirildi.";
+"A confirmation mail has been sent to your email address." = "E-Posta adresinize bir onaylama e-postası gönderildi.";
+"Invalid Email or password." = "Geçersiz E-Posta ya da parola.";
+
+"Accept" = "Kabul Ediyorum";
+"Accepted" = "Kabul Edildi";
+"Please accept the Terms and Conditions to complete registration." = "Lütfen kayıt işlemini sonuçlandırmak için Hüküm ve Şartları kabul edin.";
+
+"Search" = "Arama";
+"Reply" = "Yanıtla";
+"Call" = "Ara";
+"Updating your location..." = "Yeriniz yükleniyor.";
+"Loading..." = "Yükleniyor...";
+"Password" = "Parola";
+"Sign In" = "Giriş Yap";
+"Forgot Password" = "Parolamı Kaybettim";
+"Register Now!" = "Hemen Kaydol";
+"Email Address" = "E-Posta Adresil";
+"Not a Member?" = "Üye Değil misiniz?";
+"Next" = "İleri";
+"Cancel" = "İptal";
+"Mailbox" = "Posta Kutusu";
+"Active Ads" = "Devam Eden İlanlar";
+"Closed Ads" = "Sonlandırılmış İlanlar";
+"My Favorites" = "Sık Kullanılanlarım";
+"Reply to Listing" = "İlana Yanıt Ver";
+"Name (Optional)" = "Ad (İsteğe Bağlı)";
+"Phone (Optional)" = "Telefon (İsteğe Bağlı)";
+"Invalid email address.  Please try again." = "Geçersiz E-Posta adresi. Lütfen yeniden deneyin.";
+"Current Location:" = "Şu Anki Yer:";
+"Add Photo" = "Fotoğraf Ekle";
+"Change Location for your Ad:" = "İlanınız için yeri değiştirin:";
+"Manual Location" = "Elle Yer Belirleme";
+"Comments" = "Yorumlar";
+"Resend Password" = "Parolayı Yeniden Gönder";
+"Register Button" = "Kayıt Düğmesi";
+"Accept" = "Kabul Et";
+"I accept the Terms and Conditions of OLX" = "OLX'in Hüküm ve Şartlarını kabul ediyorum.";
+"Confirm Password" = "Parolayı Onayla";
+"View Terms" = "Hükümleri Görüntüle";
+"Username" = "Kullanıcı Adı";
+"Please select a city for this posting." = "Lütfen bu ilan için bir şehir seçin.";
+"No listings found" = "İlan bulunamadı";
+"Replace Photo" = "Fotoğrafı Değiştir";
+"Delete Photo" = "Fotoğrafı Sil";
+"Congratulations! Your ad has been published." = "Tebrikler! İlanınız yayınlandı.";
+"You can go to My OLX to view, edit, or delete the ad at any time." = "İstediğiniz zaman OLX Bana Özel'e giderek ilanınızı görüntüleyebilir, düzenleyebilir ya da silebilirsiniz.";
+"Share" = "Paylaş";
+"View Ad" = "İlanı Görüntüle";
+"Success" = "Başarıldı";
+"Add a Comment" = "Yorum Ekle";
+"Name" = "Ad";
+"Select a category for your ad" = "İlanınız için bir kategori seçin";
+"Select a sub-category for your ad" = "İlanınız için bir alt kategori seçin";
+"Save Listing" = "İlanı Kaydet";
+
+"Location" = "Yer";
+"Category" = "Kategori";
+"Change Location" = "Yeri Değiştir";
+"Change Password" = "Parolayı Değiştir";
+"Old Password" = "Eski Parola";
+"New Password" = "Yeni Parola";
+"Confirm New Password" = "Yeni Parolayı Onayla";
+"Change Email" = "E-Postayı Değiştir";
+"New Email Address" = "Yeni E-Posta Adresi";
+"Email Notification Preferences" = "E-Posta Bildirim Seçenekleri";
+"Email Newsletter" = "E-Posta Bülten";
+"Comment Alerts" = "Yorum Bildirimleri";
+"Advice Alerts" = "Öneri Bildirimleri";
+"Refresh Alerts" = "Yenilendi Bildirimleri"; // ???
+"Save" = "Kaydet";
+"A user with this email address already exists." = "Bu adrese sahip bir kullanıcı bulunuyor.";
+"Close this Listing" = "Bu İlanı Sonlandır";
+"Are you sure you wish to close this listing?" = "Bu ilanı sonlandırmak istediğinizden emin misiniz?";
+"Description (30 char minimum)" = "Açıklama (Minimum 30 karakter)";
+
+// Email
+"Check out my new post on OLX" = "OLX'deki yeni ilanıma bir gözatın";
+"Visit %@%u to check out my listing! Please forward if you know people that might be interested." = "%@%u adresini ziyaret ederek ilanıma bir gözatın! Lütfen ilgisini çekeceğini düşündüğünüz kişilere ilanımı iletin.";

@@ -1,0 +1,153 @@
+﻿"No results found" = "Niciun rezultat";
+"View Ad" = "Anunţ";
+"Message" = "Mesaj";
+"Home" = "Pagina iniţială";
+"My OLX" = "Pagina mea OLX";
+"POST" = "PUBLICARE";
+"Post" = "Publicare";
+"Posting" = "În curs...";
+
+// Posting
+"Attach Photos to your Ad" = "Adăugaţi poze la anunţul dvs.";
+"Post an Ad" = "Publicaţi un anunţ";
+"Add a Photo" = "Adăugaţi o poză";
+"Take Photo" = "Faceţi o poză";
+"Choose Existing Photo" = "Alegeţi o poză existentă";
+"Select a location for your ad" = "Selectaţi o localitate pentru anunţul dvs.";
+"Select a Category" = "Selectaţi o categorie";
+"Close" = "Închidere";
+"Price" = "Preţ";
+"Title" = "Titlu";
+"Email (Won't be shared)" = "Email (Nu va fi divulgat)";
+"Phone Number" = "Telefon";
+"Description" = "Descriere";
+"Unable to retrieve your current location." = "Nu am reuşit să găsim poziţia dvs. actuală";
+
+// Date format for comments
+"MM dd, YYYY" = "dd MM YYYY";
+"This listing has no comments" = "Acest anunţ încă nu are comentarii";
+"Send" = "Trimitere";
+"Sending" = "În curs...";
+
+// Mailbox titles. %u is replaced by the number of unread messages.
+"Mailbox (%u)" = "Mesaje (%u)";
+"Mailbox" = "Mesaje";
+"Delete Message" = "Ştergere mesaj";
+"Are you sure?" = "Sunteţi sigur/ă?";
+// the first %u is replaced by the current message, second %u is total messages
+"Message %u of %u" = "Mesaj %u din %u";
+
+"Manage Comments" = "Administrare comentarii";
+"Edit Listing" = "Modificare anunţ";
+"From: %@" = "De la: %@";
+"To: %@" = "La: %@";
+"Hello %@!" = "Bine ai venit %@!!";
+
+"- Favorite" = "- Preferinţă";
+"+ Favorite" = "+ Preferinţă";
+"Removed from favorites" = "Eliminat din preferinţe";
+"Added to favorites" = "Adăugat la preferinţe";
+
+"You have no messages" = "Nu aveţi mesaje";
+"Settings" = "Setări";
+"Sign Out" = "Deconectare";
+"Sign in" = "Identificare";
+"Are you sure you wish to sign out?" = "Sunteţi sigur/ă că doriţi să vă deconectaţi?";
+"Yes" = "Da";
+"No" = "Nu";
+"Your message has been sent." = "Mesajul dvs. a fost trimis";
+
+"Are you sure you wish to cancel?" = "Sunteţi sigur/ă că doriţi să ştergeţi?";
+
+"Locate Me Now" = "Localizează-mă acum";
+"Choose Location" = "Selectare poziţie";
+
+"Register" = "Înregistrare";
+"Forgot Password" = "Parolă uitată";
+
+"Set Location" = "Setare poziţie";
+"Please enter your username and password to sign in." = "Vă rugăm să introduceţi numele dvs. de utilizator şi parola pentru a vă identifica.";
+"Password and password confirmation don't match." = "Parola şi confirmarea parolei nu corespund.";
+"Please enter your current password." = "Vă rugăm să introduceţi parola dvs. actuală.";
+"Please complete all fields to register." = "Vă rugăm să completaţi toate câmpurile pentru a vă înregistra.";
+"Please enter your Email address to retrieve your password." = "Vă rugăm să introduceţi adresa dvs. de email pentru a recupera parola.";
+"Your password has been sent to %@" = "Parola dvs. a fost trimisă la %@";
+"Your password has been changed successfully." = "Parola dvs. a fost modificată.";
+"A confirmation mail has been sent to your email address." = "A fost trimis un email de confirmare la adresa dvs. de email.";
+"Invalid Email or password." = "Email sau parolă incorectă";
+
+"Accept" = "Acceptare";
+"Accepted" = "Acceptat";
+"Please accept the Terms and Conditions to complete registration." = "Vă rugăm să acceptaţi Termenii şi condiţiile de utilizare pentru a finaliza înregistrarea.";
+
+"Search" = "Căutaţi";
+"Reply" = "Răspundeţi";
+"Call" = "Telefonaţi";
+"Updating your location..." = "Actualizare poziţie în curs...";
+"Loading..." = "Încărcare...";
+"Password" = "Parolă";
+"Sign In" = "Identificare";
+"Forgot Password" = "Parolă uitată";
+"Register Now!" = "Înregistraţi-vă acum!";
+"Email Address" = "Adresă de email";
+"Not a Member?" = "Nu sunteţi membru?";
+"Next" = "Următorul";
+"Cancel" = "Anulare";
+"Mailbox" = "Mesaje";
+"Active Ads" = "Anunţuri active";
+"Closed Ads" = "Anunţuri închise";
+"My Favorites" = "Preferinţele mele";
+"Reply to Listing" = "Răspuns la anunţ";
+"Name (Optional)" = "Nume (Opţional)";
+"Phone (Optional)" = "Telefon (Opţional)";
+"Invalid email address.  Please try again." = "Adresă de email incorectă. Încercaţi din nou.";
+"Current Location:" = "Poziţie actuală:";
+"Add Photo" = "Adăugare poză";
+"Change Location for your Ad:" = "Modificaţi poziţia Anunţului dvs.:";
+"Manual Location" = "Poziţie manuală";
+"Comments" = "Comentarii";
+"Resend Password" = "Retrimitere parolă";
+"Register Button" = "Buton înregistrare";
+"Accept" = "Acceptare";
+"I accept the Terms and Conditions of OLX" = "Accept Termenii şi condiţiile OLX";
+"Confirm Password" = "Confirmaţi parola";
+"View Terms" = "Vizualizaţi Termenii";
+"Username" = "Nume de utilizator";
+"Please select a city for this posting." = "Vă rugăm să alegeţi un oraş pentru această publicare.";
+"No listings found" = "Niciun anunţ";
+"Replace Photo" = "Înlocuire poză";
+"Delete Photo" = "Ştergere poză";
+"Congratulations! Your ad has been published." = "Felicitări! Anunţul dvs. a fost publicat.";
+"You can go to My OLX to view, edit, or delete the ad at any time." = "Puteţi vizualiza, modifica sau şterge oricând anunţul de pe Pagina mea OLX";
+"Share" = "Trimiteţi altora";
+"View Ad" = "Vizualizare anunţ";
+"Success" = "Succes";
+"Add a Comment" = "Adăugaţi un comentariu";
+"Name" = "Nume";
+"Select a category for your ad" = "Selectaţi o categorie pentru anunţul dvs.";
+"Select a sub-category for your ad" = "Selectaţi o sub-categorie pentru anunţul dvs.";
+"Save Listing" = "Salvaţi listarea";
+
+"Location" = "Poziţie geografică";
+"Category" = "Categorie";
+"Change Location" = "Modificare poziţie";
+"Change Password" = "Modificare parolă";
+"Old Password" = "Parolă veche";
+"New Password" = "Parolă nouă";
+"Confirm New Password" = "Confirmaţi parola nouă";
+"Change Email" = "Modificare adresă de email";
+"New Email Address" = "Nouă adresă de email";
+"Email Notification Preferences" = "Preferinţe de notificare prin email";
+"Email Newsletter" = "Buletin informativ prin email";
+"Comment Alerts" = "Notificări comentarii";
+"Advice Alerts" = "Notificări de consiliere";
+"Refresh Alerts" = "Notificări de actualizare"; // ???
+"Save" = "Salvare";
+"A user with this email address already exists." = "Există deja un utilizator cu această adresă de email.";
+"Close this Listing" = "Închidere listare";
+"Are you sure you wish to close this listing?" = "Sunteţi sigur/ă că doriţi să închideţi acest anunţ?";
+"Description (30 char minimum)" = "Descriere (minim 30 caractere)";
+
+// Email
+"Check out my new post on OLX" = "Vizualizaţi noul meu anunţ pe OLX";
+"Visit %@%u to check out my listing! Please forward if you know people that might be interested." = "Vizitaţi %@%u pentru a vizualiza anunţul meu! Vă rog să îl trimiteţi mai departe dacă ştiţi persoane interesate.";

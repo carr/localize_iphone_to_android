@@ -1,0 +1,153 @@
+﻿"No results found" = "Tidak ditemukan hasil";
+"View Ad" = "Lihat Iklan";
+"Message" = "Pesan";
+"Home" = "Halaman Awal";
+"My OLX" = "OLX Saya";
+"POST" = "POSTING";
+"Post" = "Posting";
+"Posting" = "Posting";
+
+// Posting
+"Attach Photos to your Ad" = "Lampirkan foto ke Iklan Anda";
+"Post an Ad" = "Posting Iklan";
+"Add a Photo" = "Tambah Foto";
+"Take Photo" = "Potret Foto";
+"Choose Existing Photo" = "Pilih Foto yang Ada";
+"Select a location for your ad" = "Pilih lokasi untuk iklan Anda";
+"Select a Category" = "Pilih Kategori";
+"Close" = "Tutup";
+"Price" = "Harga";
+"Title" = "Judul";
+"Email (Won't be shared)" = "Email (Tidak akan dibagi)";
+"Phone Number" = "Nomor Telepon";
+"Description" = "Deskripsi";
+"Unable to retrieve your current location." = "Tidak bisa menentukan lokasi Anda saat ini.";
+
+// Date format for comments
+"MM dd, YYYY" = "hh BB TTTT";
+"This listing has no comments" = "Daftar ini tidak memiliki komentar";
+"Send" = "Kirim";
+"Sending" = "Sedang mengirim";
+
+// Mailbox titles. %u is replaced by the number of unread messages.
+"Mailbox (%u)" = "Kotak masuk (%u)";
+"Mailbox" = "Kotak masuk";
+"Delete Message" = "Hapus Pesan";
+"Are you sure?" = "Anda yakin?";
+// the first %u is replaced by the current message, second %u is total messages
+"Message %u of %u" = "Pesan %u dari %u";
+
+"Manage Comments" = "Kelola Komentar";
+"Edit Listing" = "Edit Daftar";
+"From: %@" = "Dari: %@";
+"To: %@" = "Kepada: %@";
+"Hello %@!" = "Halo %@ !";
+
+"- Favorite" = "- Favorit";
+"+ Favorite" = "+ Favorit";
+"Removed from favorites" = "Hapus dari favorit";
+"Added to favorites" = "Tambah ke favorit";
+
+"You have no messages" = "Anda tidak punya pesan";
+"Settings" = "Setelan";
+"Sign Out" = "Keluar";
+"Sign in" = "Masuk";
+"Are you sure you wish to sign out?" = "Anda yakin ingin keluar?";
+"Yes" = "Ya";
+"No" = "Tidak";
+"Your message has been sent." = "Pesan Anda telah dikirim";
+
+"Are you sure you wish to cancel?" = "Anda yakin ingin membatalkan?";
+
+"Locate Me Now" = "Temukan Lokasiku Sekarang";
+"Choose Location" = "Pilih Lokasi";
+
+"Register" = "Daftar";
+"Forgot Password" = "Lupa Sandi";
+
+"Set Location" = "Atur Lokasi";
+"Please enter your username and password to sign in." = "Masukkan nama pengguna dan sandi untuk masuk";
+"Password and password confirmation don't match." = "Sandi dan konfirmasi sandi tidak sesuai.";
+"Please enter your current password." = "Masukkan sandi Anda saat ini";
+"Please complete all fields to register." = "Lengkapi semua bidang untuk mendaftar";
+"Please enter your Email address to retrieve your password." = "Masukkan alamat Email untuk memperoleh sandi Anda";
+"Your password has been sent to %@" = "Sandi Anda telah dikirim ke %@";
+"Your password has been changed successfully." = "Sandi Anda telah berhasil diubah";
+"A confirmation mail has been sent to your email address." = "Email konfirmasi telah dikirim ke alamat email Anda.";
+"Invalid Email or password." = "Email atau sandi tidak sah";
+
+"Accept" = "Terima";
+"Accepted" = "Diterima";
+"Please accept the Terms and Conditions to complete registration." = "Terima Syarat dan Ketentuan untuk menyelesaikan pendaftaran.";
+
+"Search" = "Cari";
+"Reply" = "Balas";
+"Call" = "Hubungi";
+"Updating your location..." = "Sedang mengupdate lokasi Anda...";
+"Loading..." = "Sedang memuat...";
+"Password" = "Sandi";
+"Sign In" = "Masuk";
+"Forgot Password" = "Lupa Sandi";
+"Register Now!" = "Daftar Sekarang!";
+"Email Address" = "Alamat Email";
+"Not a Member?" = "Bukan Anggota?";
+"Next" = "Berikutnya";
+"Cancel" = "Batal";
+"Mailbox" = "Kotak surat";
+"Active Ads" = "Iklan Aktif";
+"Closed Ads" = "Iklan Ditutup";
+"My Favorites" = "Favorit Saya";
+"Reply to Listing" = "Balas ke Daftar";
+"Name (Optional)" = "Nama (Opsional)";
+"Phone (Optional)" = "Telepon (Opsional)";
+"Invalid email address.  Please try again." = "Alamat email tidak sah. Coba lagi.";
+"Current Location:" = "Lokasi Saat Ini:";
+"Add Photo" = "Tambah Foto";
+"Change Location for your Ad:" = "Ubah Lokasi untuk Iklan Anda:";
+"Manual Location" = "Lokasi Manual";
+"Comments" = "Komentar";
+"Resend Password" = "Kirim Ulang Sandi";
+"Register Button" = "Tombol Daftar";
+"Accept" = "Terima";
+"I accept the Terms and Conditions of OLX" = "Saya menerima Syarat dan Ketentuan OLX";
+"Confirm Password" = "Konfirmasi Sandi";
+"View Terms" = "Lihat Ketentuan";
+"Username" = "Nama Pengguna";
+"Please select a city for this posting." = "Pilih kota untuk posting ini.";
+"No listings found" = "Tidak ditemukan daftar";
+"Replace Photo" = "Ganti Foto";
+"Delete Photo" = "Hapus Foto";
+"Congratulations! Your ad has been published." = "Selamat! Iklan Anda telah diterbitkan.";
+"You can go to My OLX to view, edit, or delete the ad at any time." = "Anda bisa mengunjungi OLX Saya untuk melihat, mengedit, atau menghapus iklan kapan saja.";
+"Share" = "Bagi";
+"View Ad" = "Lihat Iklan";
+"Success" = "Sukses";
+"Add a Comment" = "Tambah Komentar";
+"Name" = "Nama";
+"Select a category for your ad" = "Pilih kategori untuk iklan Anda";
+"Select a sub-category for your ad" = "Pilih sub-kategori untuk iklan Anda";
+"Save Listing" = "Simpan Daftar";
+
+"Location" = "Lokasi";
+"Category" = "Kategori";
+"Change Location" = "Ubah Lokasi";
+"Change Password" = "Ubah Sandi";
+"Old Password" = "Sandi Lama";
+"New Password" = "Sandi Baru";
+"Confirm New Password" = "Konfirmasi Sandi Baru";
+"Change Email" = "Ubah Email";
+"New Email Address" = "Alamat Email Baru";
+"Email Notification Preferences" = "Preferensi Pemberitahuan Email";
+"Email Newsletter" = "Newsletter Email";
+"Comment Alerts" = "Peringatan Komentar";
+"Advice Alerts" = "Peringatan Saran";
+"Refresh Alerts" = "Peringatan Segarkan"; // ???
+"Save" = "Simpan";
+"A user with this email address already exists." = "Alamat ini telah digunakan pengguna lain.";
+"Close this Listing" = "Tutup Daftar ini";
+"Are you sure you wish to close this listing?" = "Anda yakin ingin menutup daftar ini?";
+"Description (30 char minimum)" = "Deskripsi (minimal 30 karakter)";
+
+// Email
+"Check out my new post on OLX" = "Periksa posting terbaru saya di OLX";
+"Visit %@%u to check out my listing! Please forward if you know people that might be interested." = "Kunjungi %@%u untuk memeriksa daftar saya! Silakan teruskan jika Anda tahu orang yang mungkin tertarik.";
