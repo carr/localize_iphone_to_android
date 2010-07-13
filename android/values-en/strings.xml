@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="no_results_found">No results found</string>
   <string name="view_ad">View Ad</string>
@@ -33,9 +33,9 @@
   <string name="message_u_of_u">Message %u of %u</string>
   <string name="manage_comments">Manage Comments</string>
   <string name="edit_listing">Edit Listing</string>
-  <string name="from">From: %@</string>
-  <string name="to">To: %@</string>
-  <string name="hello">Hello %@!</string>
+  <string name="from_s">From: %s</string>
+  <string name="to_s">To: %s</string>
+  <string name="hello_s">Hello %s!</string>
   <string name="favorite">- Favorite</string>
   <string name="favorite">+ Favorite</string>
   <string name="removed_from_favorites">Removed from favorites</string>
@@ -59,7 +59,7 @@
   <string name="please_enter_your_current_password">Please enter your current password.</string>
   <string name="please_complete_all_fields_to_register">Please complete all fields to register.</string>
   <string name="please_enter_your_email_address_to_retrieve_your_password">Please enter your Email address to retrieve your password.</string>
-  <string name="your_password_has_been_sent_to">Your password has been sent to %@</string>
+  <string name="your_password_has_been_sent_to_s">Your password has been sent to %s</string>
   <string name="your_password_has_been_changed_successfully">Your password has been changed successfully.</string>
   <string name="a_confirmation_mail_has_been_sent_to_your_email_address">A confirmation mail has been sent to your email address.</string>
   <string name="invalid_email_or_password">Invalid Email or password.</string>
@@ -133,5 +133,5 @@
   <string name="are_you_sure_you_wish_to_close_this_listing">Are you sure you wish to close this listing?</string>
   <string name="description_30_char_minimum">Description (30 char minimum)</string>
   <string name="check_out_my_new_post_on_olx">Check out my new post on OLX</string>
-  <string name="visit_u_to_check_out_my_listing_please_forward_if_you_know_people_that_might_be_interested">Visit %@%u to check out my listing! Please forward if you know people that might be interested.</string>
+  <string name="visit_s_u_to_check_out_my_listing_please_forward_if_you_know_people_that_might_be_interested">Visit %s%u to check out my listing! Please forward if you know people that might be interested.</string>
 </resources>

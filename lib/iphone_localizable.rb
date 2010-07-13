@@ -1,19 +1,25 @@
 class IphoneLocalizable
   def initialize(filename, options = {})
+    puts "Loading #{filename}"
     @filename = filename
     @basename = File.basename(@filename)
     @locale = options[:locale] || @basename.match(/(.*)_Localizable.strings/)[1]
-    @contents = File.read(filename)
+#    @contents = File.open(filename, 'r')
     @data = []
     read
   end
   
   # read the input file and store in internal data structure
   def read
-    @contents.split("\n").each do |line|
+    x = nil
+    File.open(@filename, 'r') {|f| x = f.readlines }
+    x.each do |line|
+      puts line
       line = self.class.remove_comments(line)
-      if line != ''
+puts line
+      if line.present?
         @data << self.class.extract_data_from_line(line)
+        puts self.class.extract_data_from_line(line).to_yaml
       end
     end
   end
@@ -25,17 +31,28 @@ class IphoneLocalizable
   
   def self.extract_data_from_line(line)
     raw = line.split('"').map(&:strip)
+
+    original = convert_variables(raw[1])
+    value = convert_variables(raw[3])
+
     data = {
-      :key => raw[1].parameterize.gsub(/-/, "_").to_s, :value => raw[3], :original => raw[1]
+      :key => original.parameterize.gsub(/-/, "_").to_s, :value => value, :original => original
     }
+  
     data
+  end
+  
+  def self.convert_variables(string)
+    string.gsub("%@", "%s")
   end
   
   def to_android(options = {})
     value_key = options[:original] ? :original : :value      
 
+    $KCODE = 'UTF8'
     builder = Builder::XmlMarkup.new(:indent=>2)
-    builder.instruct! :xml, :version=>"1.0", :encoding=>"utf-8"    
+    decoder = HTMLEntities.new
+    builder.instruct! :xml, :version=>"1.0", :encoding=>"UTF-8"    
         
     xml = builder.resources do |resources|
       @data.each do |translation|
@@ -43,7 +60,8 @@ class IphoneLocalizable
       end
     end
     
-    xml.to_s
+#    puts xml
+    decoder.decode(builder.target!)
   end
   
   def save_as_android!(options = {})
