@@ -36,7 +36,7 @@ puts line
     value = convert_variables(raw[3])
 
     data = {
-      :key => original.parameterize.gsub(/-/, "_").to_s, :value => value, :original => original
+      :key => original.gsub(" ", "_").gsub(/[^a-zA-Z0-9_]/, '').to_s, :value => value, :original => original
     }
   
     data
