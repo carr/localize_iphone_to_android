@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="No_results_found">No results found</string>
-  <string name="View_Ad">View Ad</string>
   <string name="Message">Message</string>
   <string name="Home">Home</string>
   <string name="My_OLX">My OLX</string>
@@ -26,18 +25,18 @@
   <string name="This_listing_has_no_comments">This listing has no comments</string>
   <string name="Send">Send</string>
   <string name="Sending">Sending</string>
-  <string name="Mailbox_u">Mailbox (%u)</string>
+  <string name="Mailbox_d">Mailbox (%d)</string>
   <string name="Mailbox">Mailbox</string>
   <string name="Delete_Message">Delete Message</string>
   <string name="Are_you_sure">Are you sure?</string>
-  <string name="Message_u_of_u">Message %u of %u</string>
+  <string name="Message_d_of_d">Message %d of %d</string>
   <string name="Manage_Comments">Manage Comments</string>
   <string name="Edit_Listing">Edit Listing</string>
   <string name="From_s">From: %s</string>
   <string name="To_s">To: %s</string>
   <string name="Hello_s">Hello %s!</string>
-  <string name="_Favorite">- Favorite</string>
-  <string name="_Favorite">+ Favorite</string>
+  <string name="Minus_Favorite">- Favorite</string>
+  <string name="Plus_Favorite">+ Favorite</string>
   <string name="Removed_from_favorites">Removed from favorites</string>
   <string name="Added_to_favorites">Added to favorites</string>
   <string name="You_have_no_messages">You have no messages</string>
@@ -52,7 +51,6 @@
   <string name="Locate_Me_Now">Locate Me Now</string>
   <string name="Choose_Location">Choose Location</string>
   <string name="Register">Register</string>
-  <string name="Forgot_Password">Forgot Password</string>
   <string name="Set_Location">Set Location</string>
   <string name="Please_enter_your_username_and_password_to_sign_in">Please enter your username and password to sign in.</string>
   <string name="Password_and_password_confirmation_dont_match">Password and password confirmation don't match.</string>
@@ -79,7 +77,6 @@
   <string name="Not_a_Member">Not a Member?</string>
   <string name="Next">Next</string>
   <string name="Cancel">Cancel</string>
-  <string name="Mailbox">Mailbox</string>
   <string name="Active_Ads">Active Ads</string>
   <string name="Closed_Ads">Closed Ads</string>
   <string name="My_Favorites">My Favorites</string>
@@ -94,7 +91,6 @@
   <string name="Comments">Comments</string>
   <string name="Resend_Password">Resend Password</string>
   <string name="Register_Button">Register Button</string>
-  <string name="Accept">Accept</string>
   <string name="I_accept_the_Terms_and_Conditions_of_OLX">I accept the Terms and Conditions of OLX</string>
   <string name="Confirm_Password">Confirm Password</string>
   <string name="View_Terms">View Terms</string>
@@ -111,7 +107,7 @@
   <string name="Add_a_Comment">Add a Comment</string>
   <string name="Name">Name</string>
   <string name="Select_a_category_for_your_ad">Select a category for your ad</string>
-  <string name="Select_a_subcategory_for_your_ad">Select a sub-category for your ad</string>
+  <string name="Select_a_subMinuscategory_for_your_ad">Select a sub-category for your ad</string>
   <string name="Save_Listing">Save Listing</string>
   <string name="Location">Location</string>
   <string name="Category">Category</string>
@@ -133,5 +129,9 @@
   <string name="Are_you_sure_you_wish_to_close_this_listing">Are you sure you wish to close this listing?</string>
   <string name="Description_30_char_minimum">Description (30 char minimum)</string>
   <string name="Check_out_my_new_post_on_OLX">Check out my new post on OLX</string>
-  <string name="Visit_su_to_check_out_my_listing_Please_forward_if_you_know_people_that_might_be_interested">Visit %s%u to check out my listing! Please forward if you know people that might be interested.</string>
+  <string name="Visit_sd_to_check_out_my_listing_Please_forward_if_you_know_people_that_might_be_interested">Visit %s%d to check out my listing! Please forward if you know people that might be interested.</string>
+  <string name="Enable_Location_Services_for_OLX_in_Settings_to_retrieve_your_location">Enable Location Services for OLX in Settings to retrieve your location</string>
+  <string name="Sorry">Sorry</string>
+  <string name="OLX_is_experiencing_connection_problems_Please_try_again">OLX is experiencing connection problems. Please try again.</string>
+  <string name="Network_connection_failed_OLX_requires_a_network_connection_to_operate">Network connection failed. OLX requires a network connection to operate.</string>
 </resources>
