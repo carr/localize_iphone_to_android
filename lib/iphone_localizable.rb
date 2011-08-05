@@ -19,7 +19,7 @@ class IphoneLocalizable
 
       if line.present?
         @data << self.class.extract_data_from_line(line)
-        puts self.class.extract_data_from_line(line).to_yaml
+        # puts self.class.extract_data_from_line(line).to_yaml
       end
     end
   end
@@ -64,7 +64,12 @@ class IphoneLocalizable
         
     xml = builder.resources do |resources|
       @data.each do |translation|
-        resources.string(translation[value_key], :name => translation[:key])
+        value = translation[value_key].gsub("'", "\\\\'")
+        if (value.match(/(%d)/) || value.match(/(%s)/))
+          resources.string(value, :name => translation[:key], :formatted => false)
+        else
+          resources.string(value, :name => translation[:key])
+        end
       end
     end
     
@@ -135,7 +140,7 @@ class IphoneLocalizable
   end  
   
   def android_directory
-    "android/values-#{@locale}"
+    "android/values-#{@locale.gsub("_", "-r")}"
   end
   
   def win7_directory
